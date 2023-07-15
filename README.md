@@ -16,8 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aranya7&show_icons=true&locale=en&layout=compact" alt="aranya7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aranya7&show_icons=true&locale=en" alt="aranya7" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aranya7&" alt="aranya7" /></p>
 
 <!--
