@@ -1,5 +1,5 @@
 <h1 align="center">Howdy! 👋, This is Aranya</h1>
-<h3 align="center">Results-driven Data Engineering professional, working at Lentra AI, skilled in Cloud Computing and DevOps, seeking opportunities to leverage expertise in AWS, GCP, Azure, SQL/NoSQL, Java, Python.</h3>
+<h3 align="center">Results-driven Data Engineering professional, working at Lentra AI, skilled in Cloud Computing and DevOps, always on the lookout for opportunities to leverage expertise in Backend Development, Cloud Computing and Data Engineering.</h3>
 
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/aranya-singh-chauhan/)
 
