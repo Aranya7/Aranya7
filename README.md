@@ -3,9 +3,9 @@
 
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/aranya-singh-chauhan/)
 
-- 📫 How to reach me **aranya7917@gmail.com**
+- 📫 Reach out to me @ **aranya7917@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1034rlUhmWDsR5HOlTyPiRgEuMqWgS-JN/view?usp=drive_link](https://drive.google.com/file/d/1034rlUhmWDsR5HOlTyPiRgEuMqWgS-JN/view?usp=drive_link)
+- 📄 Check out my tech content: [aranya.hashnode.dev](https://aranya.hashnode.dev/)
 
 
 <p align="left">
