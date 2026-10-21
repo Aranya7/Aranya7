@@ -27,3 +27,5 @@ I'm particularly interested in database internals, query optimization, distribut
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/aranya-singh-chauhan/) · [Technical Blog](https://aranya.hashnode.dev/) · [Email](mailto:aranya7917@gmail.com)
+
+Apache Doris Community Badge
