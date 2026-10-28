@@ -28,4 +28,4 @@ I'm particularly interested in database internals, query optimization, distribut
 
 [LinkedIn](https://www.linkedin.com/in/aranya-singh-chauhan/) · [Technical Blog](https://aranya.hashnode.dev/) · [Email](mailto:aranya7917@gmail.com)
 
-Apache Doris Community Badge
+[![An image of @aranya7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aranya7)](https://holopin.io/@aranya7)
